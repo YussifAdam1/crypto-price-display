@@ -23,3 +23,4 @@ The project fetches the current prices of Bitcoin, Ethereum, and Dogecoin from t
 1. Clone the repository:
    ```sh
    git clone https://github.com/YussifAdam1/crypto-price-display.git
+   or feel free to use the link and go straight to the webiste https://yussifadam1.github.io/crypto-price-display/
